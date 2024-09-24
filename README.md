@@ -1,1 +1,3 @@
-# 2024_2_3_presence_sensor_with_led_and_buzzer
+tinkercad - > https://www.tinkercad.com/things/0se7P9GLdlm-202423presencesensorwithledandbuzzer
+
+TEAMS -> 11/10/2024 - SE - ATIVIDADE PONTUANDO
